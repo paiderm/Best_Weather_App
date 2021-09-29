@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Best_Weather_App"
